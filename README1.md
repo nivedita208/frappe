@@ -6,6 +6,6 @@
 **rm -rf ~/frappe-bench-14/apps/library_management**
 
 ### 4.  bench build and restart 
-**bench build – Compiles and optimizes frontend assets (JavaScript, CSS) for all installed apps.**\n
+**bench build – Compiles and optimizes frontend assets (JavaScript, CSS) for all installed apps.** <br>
 **bench restart – Restarts all Frappe processes to apply changes and free up system resources.**
 
